@@ -5,6 +5,7 @@ from jmcomic.cl import JmcomicUI
 jm_albums = str_to_list('''
 623103
 1058178
+
 ''')
 
 # 单独下载章节
